@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="26.2.2">
   <diagram name="Página-1" id="dZ1INaviMljP2FmSyb9t">
-    <mxGraphModel dx="1876" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="93" width="285" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-69" value="" style="shape=mxgraph.signs.safety.no;html=1;pointerEvents=1;fillColor=#FF3333;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="35.56" height="35.56" as="geometry" />
+        </mxCell>
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="575" width="285" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="9CD8Q6830F6TMeSSEY_z-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;glass=0;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="410" height="660" as="geometry" />
         </mxCell>
@@ -247,6 +256,15 @@
         </mxCell>
         <mxCell id="9CD8Q6830F6TMeSSEY_z-66" value="ARQUIVOS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png" vertex="1" parent="1">
+          <mxGeometry x="22" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;opacity=50;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="50" y="128" width="230" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="9CD8Q6830F6TMeSSEY_z-75" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;- Politica de expurgo: 5 anos&lt;/div&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="280" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
